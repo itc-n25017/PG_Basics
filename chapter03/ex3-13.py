@@ -1,0 +1,8 @@
+print(13 // 5)
+print(13%5)
+print(12%2)
+print(11%2)
+print(14//3)
+print(14/3)
+print(2**3)
+
